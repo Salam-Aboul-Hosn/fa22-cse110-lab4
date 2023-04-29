@@ -27,11 +27,11 @@
     h. Nan not a number math operater with undefined value
 
 14. 
-    a. 
-    b. 
-    c. 
-    d.
-    e. 
-    f. 
+    a. true converts 2 to a num and is greater than 1
+    b. false compare the Unicode code point value of each character 
+    c. true since the values are the same
+    d. false since the type are not the same
+    e. false true=one and one does not equal 2
+    f. true because true equals true. Boolean 2 is a true statement
 
 15. == operator compares two values for equality after converting the operands to a common type while === operator compares two values for equality without performing any type coercion

@@ -34,4 +34,9 @@
     e. false true=one and one does not equal 2
     f. true because true equals true. Boolean 2 is a true statement
 
-15. == operator compares two values for equality after converting the operands to a common type while === operator compares two values for equality without performing any type coercion
+15. == operator compares two values for equality after converting the operands to a common type while === operator compares two values for equality without performing any type coercion 
+17. [2, 4, 6] it passes in a function as a paramater which is a callback and thus multiplies every value in the array by 2
+19. 1 
+    4 
+    3 
+    2
